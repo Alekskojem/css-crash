@@ -33,4 +33,7 @@ body{
 .box-1 h1{
 	color: white;
 	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
 	} 
