@@ -1,0 +1,26 @@
+body{
+	background-color: #3283a8;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font: normal 16px Arial, Helvetica, sans-serif;
+	line-height: 1.6em;
+}
+.container{
+	width: 50%;
+	margin: auto;
+}
+.box-1{
+	background-color: #1e07b0;
+	color: white;
+	border-width: 3px;
+	
+	border-bottom-width: 10px;
+	border-top-style: dotted;
+	
+	border: 5px white solid;
+}
+h1{
+	color: white;
+}
