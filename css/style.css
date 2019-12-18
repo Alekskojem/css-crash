@@ -20,7 +20,17 @@ body{
 	border-top-style: dotted;
 	
 	border: 5px white solid;
+	padding: 20px;
+	/* Ровняем текст в блоке с равными отступами, делаем красоту отображения текста*/
+	margin-top: 20px;
+	margin:  20px 0 ;
+
+	font-family: Tahoma;
+	font-weight: 400;
+	font-style: italic;
+	
 }
-h1{
+.box-1 h1{
 	color: white;
-}
+	text-decoration: underline;
+	} 
