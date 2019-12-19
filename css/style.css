@@ -62,7 +62,13 @@ a:visited{
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	word-spacing: 1em;
-	} 
+	}
+.box-1 p{
+	color: yellow;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+} 
 .box-2{
 	border: 3px dotted #ccc;
 	padding: 20px;
