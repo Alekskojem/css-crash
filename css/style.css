@@ -26,6 +26,12 @@ a:visited{
 	width: 80%;
 	margin: auto;
 }
+.button{
+	background-color: yellow;
+	color: blue;
+	padding:10px 15px;
+	border-radius: 10px;
+}
 .box-1{
 	background-color: #1e07b0;
 	color: white;
@@ -87,4 +93,8 @@ a:visited{
 }
 .my-form label{
 	display:block;
+}
+.my-form input[type="text"], .my-form textarea{
+	padding: 8px;
+	width: 100%;
 }
