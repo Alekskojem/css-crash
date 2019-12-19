@@ -32,6 +32,10 @@ a:visited{
 	padding:10px 15px;
 	border-radius: 10px;
 }
+.button:hover{
+	background: red;
+	color: white;
+}
 .box-1{
 	background-color: #1e07b0;
 	color: white;
